@@ -1,0 +1,8 @@
+I have overwritten on this file
+This will erase all the content of the file
+Adding more text to the file without overwriting it!file line
+  second line
+third lines
+file line
+  second line
+third lines
